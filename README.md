@@ -11,8 +11,8 @@ An tool that can Scrape Username Member Channel on Guild Discord
     
 # config.py
 
-tokenAcc="your_token_here"
+    tokenAcc="your_token_here"
 
-guildId="your_guild_Id_here"
+    guildId="your_guild_Id_here"
 
-channelId="you_channel_id_here"
+    channelId="you_channel_id_here"
